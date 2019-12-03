@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.acuamarina-BG{
+  background-color:#4bbfac;
+}
+
+.rosa-BG{
+  background-color:#e03d74;
+}
+
+.navbar-brand
+{
+  position:absolute;
+  left:calc(50% - 30px);
+  top:8px;
+}
+
+
